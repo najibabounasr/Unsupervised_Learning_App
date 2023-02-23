@@ -51,13 +51,10 @@ After activating the dev environment, install the following libraries via. the c
     pip3 install pandas
     pip3 install numpy
     pip3 install pathlib
-    conda install -c pyviz hvplot geoviews
-    conda install -c conda-forge voila
-    pip install SQLAlchemy
-    pip install json
-    conda install os
-    conda install requests
-    pip install alpaca_trade_api
+    conda install -c pyviz hvplot 
+    pip install -U scikit-learn
+
+   
 
 '''
 ## Usage
